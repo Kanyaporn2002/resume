@@ -1,0 +1,7 @@
+.my-bar{
+font-family: 'Kanit', sans-serif;
+  font-size: 30px;
+  line-height: 95px;
+  color: #004AAD;
+  font-weight: bold;
+}

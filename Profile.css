@@ -1,0 +1,38 @@
+body {
+  background-image: url("images/bg06.jpg");
+  background-size: cover;
+}
+.my-bar{
+font-family: 'Kanit', sans-serif;
+  font-size: 30px;
+  line-height: 95px;
+  color: #FFFFFF;
+  font-weight: bold;
+  text-decoration: none;
+}
+.row1{
+background-image: url("images/bg03.jpg");
+  background-size: cover;
+}
+h4{
+font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  line-height: 95px;
+  color: #004AAD;
+  font-weight: bold;
+}
+.my-menu{
+  text-decoration: none;
+}
+.my-h{
+  text-decoration: none;
+   color: #FFFFFF;
+}
+.my-a{
+  text-decoration: none;
+   color: #FFFFFF;
+}
+.my-mumu{
+  text-decoration: none;
+
+}

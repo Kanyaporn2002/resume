@@ -1,0 +1,10 @@
+.my-bar{
+font-family: 'Kanit', sans-serif;
+  font-size: 30px;
+  line-height: 95px;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.row1{
+background-color: #335280;
+}
